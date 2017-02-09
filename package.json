@@ -1,6 +1,6 @@
 {
 	"name": "selenium_js_test",
-	"description": "Test automation for the learning project using nightwatch.js/Selenium.",
+	"description": "Test automation learning project using nightwatch.js/Selenium.",
 	"version": "1.0.0",
 	"license": "UNLICENSED",
 	"readme": "No README.md",
@@ -9,7 +9,6 @@
 		"url": ""
 	},
 	"dependencies": {
-		"lodash": "^4.17.2",
 		"nightwatch": "^0.9.9"
 	}
 }

@@ -6,7 +6,7 @@ var googleCommands = {
     }
 };
 module.exports = {
-    url: 'http://localhost:8080',
+    url: 'http://www.google.com',
     commands: [googleCommands],
     elements: {
         searchBar: {selector: 'input[type=text]'},
